@@ -1,4 +1,4 @@
 ## Figyelem! Ha az oldal nem tölt be csak várni kell egy kicsit!
 titkosítás levétele: 
-```openssl aes-256-cbc -d -in index.html -out index.html``` 
+```openssl aes-256-cbc -d -in encrypted.html -out index.html``` 
 és a jelszó az alap sis jelszava
